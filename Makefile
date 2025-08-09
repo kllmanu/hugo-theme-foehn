@@ -4,4 +4,4 @@ serve:
 build:
 	npm ci
 	npm run build
-	hugo
+	hugo --gc --minify
