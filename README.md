@@ -8,8 +8,10 @@ Foehn is **a clean, modern, and highly customizable Hugo theme** built from the 
 
 ## Install
 
-Add `theme = 'foehn'` to your hugo config and run:
-
 ```
 git clone https://github.com/kllmanu/hugo-theme-foehn themes/foehn
 ```
+
+## Example site
+
+To get an idea of the theme, start the example site in `content/` with `make serve`.
