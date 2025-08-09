@@ -1,0 +1,13 @@
+name = "Foehn"
+license = "MIT"
+licenselink = "https://github.com/kllmanu/hugo-theme-foehn/blob/master/LICENSE"
+description = "a type of dry, relatively warm downslope wind in the lee of a mountain range"
+homepage = "https://github.com/kllmanu/hugo-theme-foehn"
+demosite = "https://foehn.151190.xyz"
+tags = ["blog", "tailwind"]
+features = ["blog", "tailwind"]
+min_version = "0.148.2"
+
+[author]
+    name = "kllmanu"
+    homepage = "https://151190.xyz"
