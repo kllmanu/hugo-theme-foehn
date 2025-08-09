@@ -1,9 +1,9 @@
 name = "Foehn"
 license = "MIT"
 licenselink = "https://github.com/kllmanu/hugo-theme-foehn/blob/master/LICENSE"
-description = "a type of dry, relatively warm downslope wind in the lee of a mountain range"
+description = "A modern, minimalist Hugo theme powered by Tailwind CSS"
 homepage = "https://github.com/kllmanu/hugo-theme-foehn"
-demosite = "https://foehn.151190.xyz"
+demosite = "https://foehn.netlify.app"
 tags = ["blog", "tailwind"]
 features = ["blog", "tailwind"]
 min_version = "0.148.2"
